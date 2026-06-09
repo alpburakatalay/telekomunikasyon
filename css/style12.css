@@ -1,0 +1,124 @@
+/* TEMA 12: DRACULA DARK */
+body {
+    background: #282a36;
+    color: #f8f8f2;
+}
+
+.theme-selector {
+    background: #44475a;
+    border: 1px solid #6272a4;
+}
+
+.theme-selector select {
+    background: #282a36;
+    color: #f8f8f2;
+    border: 1px solid #6272a4;
+}
+
+.login-box {
+    background: #282a36;
+    border: 2px solid #bd93f9;
+    color: #f8f8f2;
+    box-shadow: 0 0 30px rgba(189, 147, 249, 0.2);
+}
+
+.login-box h2 {
+    color: #bd93f9;
+    text-shadow: 0 0 10px rgba(189, 147, 249, 0.3);
+}
+
+.login-box input {
+    background: #44475a;
+    color: #f8f8f2;
+    border-color: #6272a4;
+}
+
+.login-box input::placeholder {
+    color: #6272a4;
+}
+
+.login-box button {
+    background: #282a36;
+    color: #f8f8f2;
+    border-color: #6272a4;
+}
+
+.login-box button:hover {
+    background: #6272a4;
+    color: #f8f8f2;
+}
+
+.hint {
+    color: #6272a4;
+}
+
+.hint code {
+    background: #44475a;
+    color: #f8f8f2;
+    border: 1px solid #6272a4;
+}
+
+.terminal-container {
+    background: #282a36;
+    border: 2px solid #bd93f9;
+    color: #f8f8f2;
+    box-shadow: 0 0 30px rgba(189, 147, 249, 0.15);
+}
+
+.terminal-header {
+    border-color: #bd93f9;
+}
+
+.terminal-header h2 {
+    color: #bd93f9;
+}
+
+.logout-btn {
+    background: #282a36;
+    color: #f8f8f2;
+    border-color: #6272a4;
+}
+
+.logout-btn:hover {
+    background: #6272a4;
+    color: #f8f8f2;
+}
+
+.terminal-log {
+    background: #44475a;
+    border-color: #6272a4;
+    color: #f8f8f2;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #282a36;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #6272a4;
+}
+
+.terminal-input {
+    background: #44475a;
+    color: #f8f8f2;
+    border-color: #6272a4;
+}
+
+.terminal-input::placeholder {
+    color: #6272a4;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px rgba(189, 147, 249, 0.3);
+}
+
+.terminal-button {
+    background: #282a36;
+    color: #f8f8f2;
+    border-color: #6272a4;
+}
+
+.terminal-button:hover {
+    background: #6272a4;
+    color: #f8f8f2;
+}

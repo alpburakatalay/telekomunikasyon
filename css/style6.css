@@ -1,0 +1,124 @@
+/* TEMA 6: FOREST GREEN */
+body {
+    background: linear-gradient(135deg, #0f2419 0%, #1a3a2e 100%);
+    color: #52b788;
+}
+
+.theme-selector {
+    background: rgba(15, 36, 25, 0.9);
+    border: 1px solid #52b788;
+}
+
+.theme-selector select {
+    background: #0f2419;
+    color: #52b788;
+    border: 1px solid #52b788;
+}
+
+.login-box {
+    background: rgba(15, 36, 25, 0.95);
+    border: 2px solid #52b788;
+    color: #52b788;
+    box-shadow: 0 0 30px rgba(82, 183, 136, 0.2);
+}
+
+.login-box h2 {
+    color: #52b788;
+    text-shadow: 0 0 10px #2d9471;
+}
+
+.login-box input {
+    background: #1a3a2e;
+    color: #52b788;
+    border-color: #52b788;
+}
+
+.login-box input::placeholder {
+    color: #2d9471;
+}
+
+.login-box button {
+    background: #0f2419;
+    color: #52b788;
+    border-color: #52b788;
+}
+
+.login-box button:hover {
+    background: #2d9471;
+    color: #0f2419;
+}
+
+.hint {
+    color: #2d9471;
+}
+
+.hint code {
+    background: #1a3a2e;
+    color: #52b788;
+    border: 1px solid #52b788;
+}
+
+.terminal-container {
+    background: rgba(15, 36, 25, 0.95);
+    border: 2px solid #52b788;
+    color: #52b788;
+    box-shadow: 0 0 30px rgba(82, 183, 136, 0.15);
+}
+
+.terminal-header {
+    border-color: #52b788;
+}
+
+.terminal-header h2 {
+    text-shadow: 0 0 10px #2d9471;
+}
+
+.logout-btn {
+    background: #0f2419;
+    color: #52b788;
+    border-color: #52b788;
+}
+
+.logout-btn:hover {
+    background: #2d9471;
+    color: #0f2419;
+}
+
+.terminal-log {
+    background: #1a3a2e;
+    border-color: #52b788;
+    color: #52b788;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #0f2419;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #52b788;
+}
+
+.terminal-input {
+    background: #1a3a2e;
+    color: #52b788;
+    border-color: #52b788;
+}
+
+.terminal-input::placeholder {
+    color: #2d9471;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px #2d9471;
+}
+
+.terminal-button {
+    background: #0f2419;
+    color: #52b788;
+    border-color: #52b788;
+}
+
+.terminal-button:hover {
+    background: #2d9471;
+    color: #0f2419;
+}

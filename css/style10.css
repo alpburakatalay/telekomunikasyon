@@ -1,0 +1,132 @@
+/* TEMA 10: RETRO APPLE II */
+body {
+    background: #000000;
+    color: #00aa00;
+    font-family: 'Courier', monospace;
+    letter-spacing: 2px;
+}
+
+.theme-selector {
+    background: rgba(0, 0, 0, 0.9);
+    border: 2px solid #00aa00;
+}
+
+.theme-selector select {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 1px;
+}
+
+.login-box {
+    background: #000000;
+    border: 3px solid #00aa00;
+    color: #00aa00;
+    box-shadow: 0 0 15px rgba(0, 170, 0, 0.2);
+}
+
+.login-box h2 {
+    color: #00aa00;
+    letter-spacing: 3px;
+}
+
+.login-box input {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 1px;
+}
+
+.login-box input::placeholder {
+    color: #005500;
+}
+
+.login-box button {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 2px;
+}
+
+.login-box button:hover {
+    background: #00aa00;
+    color: #000000;
+    letter-spacing: 2px;
+}
+
+.hint {
+    color: #005500;
+    letter-spacing: 1px;
+}
+
+.hint code {
+    background: #000000;
+    color: #00aa00;
+    border: 1px solid #00aa00;
+}
+
+.terminal-container {
+    background: #000000;
+    border: 3px solid #00aa00;
+    color: #00aa00;
+    box-shadow: 0 0 10px rgba(0, 170, 0, 0.15);
+}
+
+.terminal-header {
+    border-color: #00aa00;
+    letter-spacing: 2px;
+}
+
+.logout-btn {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 1px;
+}
+
+.logout-btn:hover {
+    background: #00aa00;
+    color: #000000;
+}
+
+.terminal-log {
+    background: #000000;
+    border-color: #00aa00;
+    color: #00aa00;
+    letter-spacing: 1px;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #000000;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #00aa00;
+}
+
+.terminal-input {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 1px;
+}
+
+.terminal-input::placeholder {
+    color: #005500;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 10px #00aa00;
+}
+
+.terminal-button {
+    background: #000000;
+    color: #00aa00;
+    border: 2px solid #00aa00;
+    letter-spacing: 1px;
+}
+
+.terminal-button:hover {
+    background: #00aa00;
+    color: #000000;
+}

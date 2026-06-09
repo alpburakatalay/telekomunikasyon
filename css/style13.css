@@ -1,0 +1,124 @@
+/* TEMA 13: MONOKAI */
+body {
+    background: #272822;
+    color: #f8f8f2;
+}
+
+.theme-selector {
+    background: #3e3d32;
+    border: 1px solid #75715e;
+}
+
+.theme-selector select {
+    background: #272822;
+    color: #f8f8f2;
+    border: 1px solid #75715e;
+}
+
+.login-box {
+    background: #272822;
+    border: 2px solid #66d9ef;
+    color: #f8f8f2;
+    box-shadow: 0 0 30px rgba(102, 217, 239, 0.2);
+}
+
+.login-box h2 {
+    color: #a1efe4;
+    text-shadow: 0 0 10px rgba(102, 217, 239, 0.3);
+}
+
+.login-box input {
+    background: #3e3d32;
+    color: #f8f8f2;
+    border-color: #75715e;
+}
+
+.login-box input::placeholder {
+    color: #75715e;
+}
+
+.login-box button {
+    background: #272822;
+    color: #f8f8f2;
+    border-color: #75715e;
+}
+
+.login-box button:hover {
+    background: #f92672;
+    color: #f8f8f2;
+}
+
+.hint {
+    color: #75715e;
+}
+
+.hint code {
+    background: #3e3d32;
+    color: #f8f8f2;
+    border: 1px solid #75715e;
+}
+
+.terminal-container {
+    background: #272822;
+    border: 2px solid #66d9ef;
+    color: #f8f8f2;
+    box-shadow: 0 0 30px rgba(102, 217, 239, 0.15);
+}
+
+.terminal-header {
+    border-color: #66d9ef;
+}
+
+.terminal-header h2 {
+    color: #a1efe4;
+}
+
+.logout-btn {
+    background: #272822;
+    color: #f8f8f2;
+    border-color: #75715e;
+}
+
+.logout-btn:hover {
+    background: #f92672;
+    color: #f8f8f2;
+}
+
+.terminal-log {
+    background: #3e3d32;
+    border-color: #75715e;
+    color: #f8f8f2;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #272822;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #75715e;
+}
+
+.terminal-input {
+    background: #3e3d32;
+    color: #f8f8f2;
+    border-color: #75715e;
+}
+
+.terminal-input::placeholder {
+    color: #75715e;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px rgba(102, 217, 239, 0.3);
+}
+
+.terminal-button {
+    background: #272822;
+    color: #f8f8f2;
+    border-color: #75715e;
+}
+
+.terminal-button:hover {
+    background: #f92672;
+    color: #f8f8f2;
+}

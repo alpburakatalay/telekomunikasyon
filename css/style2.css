@@ -1,0 +1,117 @@
+/* TEMA 2: LIGHT MODE */
+body {
+    background: #f5f5f5;
+    color: #1a1a1a;
+}
+
+.theme-selector {
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #333;
+}
+
+.theme-selector select {
+    background: #f5f5f5;
+    color: #1a1a1a;
+    border: 1px solid #333;
+}
+
+.login-box {
+    background: #ffffff;
+    border: 2px solid #333;
+    color: #1a1a1a;
+}
+
+.login-box h2 {
+    color: #1a1a1a;
+}
+
+.login-box input {
+    background: #f5f5f5;
+    color: #1a1a1a;
+    border-color: #333;
+}
+
+.login-box input::placeholder {
+    color: #999;
+}
+
+.login-box button {
+    background: #ffffff;
+    color: #1a1a1a;
+    border-color: #333;
+}
+
+.login-box button:hover {
+    background: #1a1a1a;
+    color: #ffffff;
+}
+
+.hint {
+    color: #666;
+}
+
+.hint code {
+    background: #f0f0f0;
+    color: #1a1a1a;
+    border: 1px solid #ccc;
+}
+
+.terminal-container {
+    background: #ffffff;
+    border: 2px solid #333;
+    color: #1a1a1a;
+}
+
+.terminal-header {
+    border-color: #333;
+}
+
+.logout-btn {
+    background: #ffffff;
+    color: #1a1a1a;
+    border-color: #333;
+}
+
+.logout-btn:hover {
+    background: #1a1a1a;
+    color: #ffffff;
+}
+
+.terminal-log {
+    background: #f5f5f5;
+    border-color: #333;
+    color: #1a1a1a;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #f5f5f5;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #333;
+}
+
+.terminal-input {
+    background: #f5f5f5;
+    color: #1a1a1a;
+    border-color: #333;
+}
+
+.terminal-input::placeholder {
+    color: #999;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.terminal-button {
+    background: #ffffff;
+    color: #1a1a1a;
+    border-color: #333;
+}
+
+.terminal-button:hover {
+    background: #1a1a1a;
+    color: #ffffff;
+}

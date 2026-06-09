@@ -1,0 +1,133 @@
+/* TEMA 11: WINDOWS 95 */
+body {
+    background: #008080;
+    color: #000000;
+    font-family: 'MS Sans Serif', 'Arial', sans-serif;
+}
+
+.theme-selector {
+    background: #c0c0c0;
+    border: 2px outset #dfdfdf;
+    box-shadow: 1px 1px 0 #ffffff;
+}
+
+.theme-selector select {
+    background: #c0c0c0;
+    color: #000000;
+    border: 2px inset #dfdfdf;
+    padding: 3px;
+}
+
+.login-box {
+    background: #c0c0c0;
+    border: 2px outset #dfdfdf;
+    box-shadow: 1px 1px 0 #ffffff, inset 1px 1px 0 #808080;
+    color: #000000;
+}
+
+.login-box h2 {
+    background: linear-gradient(90deg, #000080, #1084d7);
+    color: #ffffff;
+    padding: 2px 4px;
+    margin: -40px -40px 20px -40px;
+    font-size: 16px;
+}
+
+.login-box input {
+    background: #ffffff;
+    color: #000000;
+    border: 2px inset #dfdfdf;
+    padding: 3px 4px;
+}
+
+.login-box button {
+    background: #c0c0c0;
+    color: #000000;
+    border: 2px outset #dfdfdf;
+    padding: 4px 12px;
+    font-family: 'MS Sans Serif', 'Arial', sans-serif;
+}
+
+.login-box button:active {
+    border: 2px inset #dfdfdf;
+}
+
+.hint {
+    color: #000080;
+    font-size: 11px;
+}
+
+.hint code {
+    background: #ffffff;
+    color: #000000;
+    border: 1px solid #c0c0c0;
+}
+
+.terminal-container {
+    background: #c0c0c0;
+    border: 2px outset #dfdfdf;
+    box-shadow: 1px 1px 0 #ffffff, inset 1px 1px 0 #808080;
+    color: #000000;
+}
+
+.terminal-header {
+    background: linear-gradient(90deg, #000080, #1084d7);
+    color: #ffffff;
+    border-color: #1084d7;
+    padding: 2px 4px;
+    margin: -20px -20px 15px -20px;
+}
+
+.terminal-header h2 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.logout-btn {
+    background: #c0c0c0;
+    color: #000000;
+    border: 2px outset #dfdfdf;
+    padding: 4px 8px;
+}
+
+.logout-btn:active {
+    border: 2px inset #dfdfdf;
+}
+
+.terminal-log {
+    background: #ffffff;
+    border: 2px inset #dfdfdf;
+    color: #000000;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #c0c0c0;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #c0c0c0;
+    border: 1px solid #dfdfdf;
+}
+
+.terminal-input {
+    background: #ffffff;
+    color: #000000;
+    border: 2px inset #dfdfdf;
+    padding: 3px 4px;
+}
+
+.terminal-input::placeholder {
+    color: #808080;
+}
+
+.terminal-button {
+    background: #c0c0c0;
+    color: #000000;
+    border: 2px outset #dfdfdf;
+    padding: 4px 8px;
+    font-family: 'MS Sans Serif', 'Arial', sans-serif;
+}
+
+.terminal-button:active {
+    border: 2px inset #dfdfdf;
+}

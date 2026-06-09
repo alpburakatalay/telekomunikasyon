@@ -1,0 +1,125 @@
+/* TEMA 3: MATRIX GREEN */
+body {
+    background: #000000;
+    color: #00ff41;
+}
+
+.theme-selector {
+    background: rgba(0, 0, 0, 0.8);
+    border: 1px solid #00ff41;
+}
+
+.theme-selector select {
+    background: #000000;
+    color: #00ff41;
+    border: 1px solid #00ff41;
+}
+
+.login-box {
+    background: #000000;
+    border: 2px solid #00ff41;
+    color: #00ff41;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+}
+
+.login-box h2 {
+    color: #00ff41;
+    text-shadow: 0 0 10px #00ff41;
+}
+
+.login-box input {
+    background: #0a0a0a;
+    color: #00ff41;
+    border-color: #00ff41;
+}
+
+.login-box input::placeholder {
+    color: #00aa2a;
+}
+
+.login-box button {
+    background: #000000;
+    color: #00ff41;
+    border-color: #00ff41;
+}
+
+.login-box button:hover {
+    background: #00ff41;
+    color: #000000;
+    text-shadow: none;
+}
+
+.hint {
+    color: #00aa2a;
+}
+
+.hint code {
+    background: #0a0a0a;
+    color: #00ff41;
+    border: 1px solid #00ff41;
+}
+
+.terminal-container {
+    background: #000000;
+    border: 2px solid #00ff41;
+    color: #00ff41;
+    box-shadow: 0 0 20px rgba(0, 255, 65, 0.2);
+}
+
+.terminal-header {
+    border-color: #00ff41;
+}
+
+.terminal-header h2 {
+    text-shadow: 0 0 10px #00ff41;
+}
+
+.logout-btn {
+    background: #000000;
+    color: #00ff41;
+    border-color: #00ff41;
+}
+
+.logout-btn:hover {
+    background: #00ff41;
+    color: #000000;
+}
+
+.terminal-log {
+    background: #0a0a0a;
+    border-color: #00ff41;
+    color: #00ff41;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #000000;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #00ff41;
+}
+
+.terminal-input {
+    background: #0a0a0a;
+    color: #00ff41;
+    border-color: #00ff41;
+}
+
+.terminal-input::placeholder {
+    color: #00aa2a;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px #00ff41;
+}
+
+.terminal-button {
+    background: #000000;
+    color: #00ff41;
+    border-color: #00ff41;
+}
+
+.terminal-button:hover {
+    background: #00ff41;
+    color: #000000;
+}

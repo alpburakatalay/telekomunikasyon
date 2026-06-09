@@ -1,0 +1,124 @@
+/* TEMA 8: PURPLE HAZE */
+body {
+    background: linear-gradient(135deg, #2d1b69 0%, #5a3d8a 100%);
+    color: #e0aaff;
+}
+
+.theme-selector {
+    background: rgba(45, 27, 105, 0.9);
+    border: 1px solid #e0aaff;
+}
+
+.theme-selector select {
+    background: #2d1b69;
+    color: #e0aaff;
+    border: 1px solid #e0aaff;
+}
+
+.login-box {
+    background: rgba(45, 27, 105, 0.95);
+    border: 2px solid #e0aaff;
+    color: #e0aaff;
+    box-shadow: 0 0 30px rgba(224, 170, 255, 0.3);
+}
+
+.login-box h2 {
+    color: #e0aaff;
+    text-shadow: 0 0 10px #b78dff;
+}
+
+.login-box input {
+    background: #3d2b7a;
+    color: #e0aaff;
+    border-color: #e0aaff;
+}
+
+.login-box input::placeholder {
+    color: #b78dff;
+}
+
+.login-box button {
+    background: #2d1b69;
+    color: #e0aaff;
+    border-color: #e0aaff;
+}
+
+.login-box button:hover {
+    background: #b78dff;
+    color: #2d1b69;
+}
+
+.hint {
+    color: #b78dff;
+}
+
+.hint code {
+    background: #3d2b7a;
+    color: #e0aaff;
+    border: 1px solid #e0aaff;
+}
+
+.terminal-container {
+    background: rgba(45, 27, 105, 0.95);
+    border: 2px solid #e0aaff;
+    color: #e0aaff;
+    box-shadow: 0 0 30px rgba(224, 170, 255, 0.2);
+}
+
+.terminal-header {
+    border-color: #e0aaff;
+}
+
+.terminal-header h2 {
+    text-shadow: 0 0 10px #b78dff;
+}
+
+.logout-btn {
+    background: #2d1b69;
+    color: #e0aaff;
+    border-color: #e0aaff;
+}
+
+.logout-btn:hover {
+    background: #b78dff;
+    color: #2d1b69;
+}
+
+.terminal-log {
+    background: #3d2b7a;
+    border-color: #e0aaff;
+    color: #e0aaff;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #2d1b69;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #e0aaff;
+}
+
+.terminal-input {
+    background: #3d2b7a;
+    color: #e0aaff;
+    border-color: #e0aaff;
+}
+
+.terminal-input::placeholder {
+    color: #b78dff;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px #b78dff;
+}
+
+.terminal-button {
+    background: #2d1b69;
+    color: #e0aaff;
+    border-color: #e0aaff;
+}
+
+.terminal-button:hover {
+    background: #b78dff;
+    color: #2d1b69;
+}

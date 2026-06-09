@@ -1,0 +1,125 @@
+/* TEMA 4: CYBERPUNK PINK */
+body {
+    background: #0d0221;
+    color: #ff006e;
+}
+
+.theme-selector {
+    background: rgba(13, 2, 33, 0.9);
+    border: 1px solid #ff006e;
+}
+
+.theme-selector select {
+    background: #0d0221;
+    color: #ff006e;
+    border: 1px solid #ff006e;
+}
+
+.login-box {
+    background: #0d0221;
+    border: 2px solid #ff006e;
+    color: #ff006e;
+    box-shadow: 0 0 30px rgba(255, 0, 110, 0.3);
+}
+
+.login-box h2 {
+    color: #ff006e;
+    text-shadow: 0 0 10px #ff006e;
+}
+
+.login-box input {
+    background: #2a0845;
+    color: #ff006e;
+    border-color: #ff006e;
+}
+
+.login-box input::placeholder {
+    color: #c6187d;
+}
+
+.login-box button {
+    background: #0d0221;
+    color: #ff006e;
+    border-color: #ff006e;
+}
+
+.login-box button:hover {
+    background: #ff006e;
+    color: #0d0221;
+    text-shadow: none;
+}
+
+.hint {
+    color: #c6187d;
+}
+
+.hint code {
+    background: #2a0845;
+    color: #ff006e;
+    border: 1px solid #ff006e;
+}
+
+.terminal-container {
+    background: #0d0221;
+    border: 2px solid #ff006e;
+    color: #ff006e;
+    box-shadow: 0 0 30px rgba(255, 0, 110, 0.2);
+}
+
+.terminal-header {
+    border-color: #ff006e;
+}
+
+.terminal-header h2 {
+    text-shadow: 0 0 10px #ff006e;
+}
+
+.logout-btn {
+    background: #0d0221;
+    color: #ff006e;
+    border-color: #ff006e;
+}
+
+.logout-btn:hover {
+    background: #ff006e;
+    color: #0d0221;
+}
+
+.terminal-log {
+    background: #2a0845;
+    border-color: #ff006e;
+    color: #ff006e;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #0d0221;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #ff006e;
+}
+
+.terminal-input {
+    background: #2a0845;
+    color: #ff006e;
+    border-color: #ff006e;
+}
+
+.terminal-input::placeholder {
+    color: #c6187d;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 20px #ff006e;
+}
+
+.terminal-button {
+    background: #0d0221;
+    color: #ff006e;
+    border-color: #ff006e;
+}
+
+.terminal-button:hover {
+    background: #ff006e;
+    color: #0d0221;
+}

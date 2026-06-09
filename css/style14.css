@@ -1,0 +1,124 @@
+/* TEMA 14: SOLARIZED DARK */
+body {
+    background: #002b36;
+    color: #839496;
+}
+
+.theme-selector {
+    background: #073642;
+    border: 1px solid #586e75;
+}
+
+.theme-selector select {
+    background: #002b36;
+    color: #839496;
+    border: 1px solid #586e75;
+}
+
+.login-box {
+    background: #002b36;
+    border: 2px solid #268bd2;
+    color: #839496;
+    box-shadow: 0 0 30px rgba(38, 139, 210, 0.2);
+}
+
+.login-box h2 {
+    color: #268bd2;
+    text-shadow: 0 0 10px rgba(38, 139, 210, 0.3);
+}
+
+.login-box input {
+    background: #073642;
+    color: #839496;
+    border-color: #586e75;
+}
+
+.login-box input::placeholder {
+    color: #586e75;
+}
+
+.login-box button {
+    background: #002b36;
+    color: #839496;
+    border-color: #586e75;
+}
+
+.login-box button:hover {
+    background: #268bd2;
+    color: #fdf6e3;
+}
+
+.hint {
+    color: #586e75;
+}
+
+.hint code {
+    background: #073642;
+    color: #839496;
+    border: 1px solid #586e75;
+}
+
+.terminal-container {
+    background: #002b36;
+    border: 2px solid #268bd2;
+    color: #839496;
+    box-shadow: 0 0 30px rgba(38, 139, 210, 0.15);
+}
+
+.terminal-header {
+    border-color: #268bd2;
+}
+
+.terminal-header h2 {
+    color: #268bd2;
+}
+
+.logout-btn {
+    background: #002b36;
+    color: #839496;
+    border-color: #586e75;
+}
+
+.logout-btn:hover {
+    background: #268bd2;
+    color: #fdf6e3;
+}
+
+.terminal-log {
+    background: #073642;
+    border-color: #586e75;
+    color: #839496;
+}
+
+.terminal-log::-webkit-scrollbar-track {
+    background: #002b36;
+}
+
+.terminal-log::-webkit-scrollbar-thumb {
+    background: #586e75;
+}
+
+.terminal-input {
+    background: #073642;
+    color: #839496;
+    border-color: #586e75;
+}
+
+.terminal-input::placeholder {
+    color: #586e75;
+}
+
+.terminal-input:focus {
+    box-shadow: 0 0 15px rgba(38, 139, 210, 0.3);
+}
+
+.terminal-button {
+    background: #002b36;
+    color: #839496;
+    border-color: #586e75;
+}
+
+.terminal-button:hover {
+    background: #268bd2;
+    color: #fdf6e3;
+}
